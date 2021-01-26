@@ -1,0 +1,113 @@
+body {
+    width: 100%;
+    font-family: arial;
+    font-size: medium;
+    background-color: blanchedalmond;
+    font-family: 'Sacramento', cursive;
+    color: #0000cc;
+    background-image: url("images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+h1 {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    color: #0000cc;
+}
+
+h3 {
+    text-align: center;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+.headder {
+    text-align: center;
+    background-color: #0066ff;
+    color: white;
+    padding-top: 60px;
+    padding-bottom: 80px;
+    font-family: 'Sacramento', cursive;
+}
+
+/*selfintro*/
+.rogo{
+    width: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.page-item {
+    text-align: center;
+    width: 100%;
+    border: black;
+    color: skyblue;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+.page-link {
+    font-family: 'Sacramento', cursive;
+}
+
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+.kodai{
+    text-align: center;
+    color: #0000ff;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c');
+.syoukai {
+    text-align: center;
+    width: 65%;
+    margin: auto;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.yuuna_meow {
+    width: 70%;
+}
+
+.yuuna {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+iframe.twitter-timeline {
+    width: 75% !important;
+}
+
+.twitter {
+    text-align: center;
+}
+
+/*Notfound*/
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+.ntj {
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    color: black;
+}
+
+.top {
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    color: black;
+}
+
+.pagination {
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+    width: 100%;
+}
+
+.lol {
+    text-align: center;
+}
